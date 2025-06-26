@@ -61,7 +61,7 @@ End Sub
 
 ### 📁 Como Usar
 - Baixe ou clone este repositório.
-- Abra o arquivo Dashboard_Xbox_Game_Pass.xlsx.
+- Abra o arquivo PROJETO DIO - XBOX.xlsm.
 - Habilite macros ao abrir o arquivo.
 - Use os filtros para interagir com os dados ou clique em “Limpar Filtros” para restaurar.
 - Utilize o botão de Tela Cheia para uma visualização mais limpa.
