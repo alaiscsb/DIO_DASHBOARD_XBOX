@@ -1,6 +1,6 @@
 # 📊 Dashboard de Vendas — Xbox Game Pass
 
-Este projeto foi desenvolvido como parte de um desafio de Excel e análise de dados. O objetivo foi transformar dados brutos de vendas em um dashboard visual, interativo e funcional, permitindo análise clara e tomada de decisão baseada em dados.
+Este projeto foi desenvolvido como parte de um desafio de Excel e análise de dados dp bootcamp da DIO - Santander - Excel com Inteligência Artificial. O objetivo foi transformar dados brutos de vendas em um dashboard visual, interativo e funcional, permitindo análise clara e tomada de decisão baseada em dados.
 
 ## 🧩 Funcionalidades
 
@@ -68,7 +68,7 @@ End Sub
 
 ### 📌 Observações
 - Projeto feito com fins educacionais.
-- Os dados utilizados são fictícios, representando um cenário simulado de vendas da Microsoft.
+- Os dados utilizados são fictícios, representando um cenário simulado de vendas da Microsoft XBOX.
 
 ### 👩‍💻 Autor(a)
-Projeto criado por Alais Cassimira Salino Barbosa como parte do desafio de dashboard no Excel.
+Projeto criado por Alais Cassimira Salino Barbosa como parte do desafio de dashboard no Excel do Bootcamp da DIO - Santander - Excel com Inteligência Artificial em junho de 2025.
