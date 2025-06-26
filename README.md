@@ -28,7 +28,7 @@ Sub LIMPAR_FILTROS()
     ActiveWorkbook.SlicerCaches("SegmentaçãodeDados_EA_Play_Season_Pass").ClearManualFilter
     ActiveWorkbook.SlicerCaches("SegmentaçãodeDados_Minecraft_Season_Pass").ClearManualFilter
 End Sub
-
+```
 ### 🖥️ Alternar Tela Cheia
 
 ```vba
@@ -57,6 +57,7 @@ Sub AlternarTelaCheia()
         End If
     End With
 End Sub
+```
 
 📁 Como Usar
 Baixe ou clone este repositório.
