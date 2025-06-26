@@ -59,16 +59,16 @@ Sub AlternarTelaCheia()
 End Sub
 ```
 
-📁 Como Usar
-Baixe ou clone este repositório.
-Abra o arquivo Dashboard_Xbox_Game_Pass.xlsx.
-Habilite macros ao abrir o arquivo.
-Use os filtros para interagir com os dados ou clique em “Limpar Filtros” para restaurar.
-Utilize o botão de Tela Cheia para uma visualização mais limpa.
+### 📁 Como Usar
+- Baixe ou clone este repositório.
+- Abra o arquivo Dashboard_Xbox_Game_Pass.xlsx.
+- Habilite macros ao abrir o arquivo.
+- Use os filtros para interagir com os dados ou clique em “Limpar Filtros” para restaurar.
+- Utilize o botão de Tela Cheia para uma visualização mais limpa.
 
-📌 Observações
-Projeto feito com fins educacionais.
-Os dados utilizados são fictícios, representando um cenário simulado de vendas da Microsoft.
+### 📌 Observações
+- Projeto feito com fins educacionais.
+- Os dados utilizados são fictícios, representando um cenário simulado de vendas da Microsoft.
 
-👩‍💻 Autor(a)
+### 👩‍💻 Autor(a)
 Projeto criado por Alais Cassimira Salino Barbosa como parte do desafio de dashboard no Excel.
